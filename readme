@@ -1,0 +1,9 @@
+1) Foi implementado um classificador nebuloso (FUZZY). O classificador foi validado a partir da implementação na base de dados Iris (descrita no artigo e disponível em https://archive.ics.uci.edu/ml/datasets/Iris).
+
+2) Esse repositorio contém dois arquivos. O algoritmo implementado em MATLAB e a documentação do algoritmo. 
+
+3) A documentação contém:
+
+- A descrição do algoritmo implementado
+
+- Os resultados para a base de dados Iris (similar ao apresentado no artigo)
